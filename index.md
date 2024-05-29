@@ -10,10 +10,13 @@ My name is Renlang Huang (Student Member, IEEE). I received the Bachelor's degre
 
 ## Research Interest
 My research interests focus on localization and mapping, visual and multi-modal perception, deep learning for autonomous mobile robots and autonomous driving.
-I plan to incorporate foundation models and generative tasks in my future research.
+I plan to incorporate foundation models and generative tasks in my future research about autonomous driving and mobile manipulation.
 
 ## Education
 - 2018.09 - 2022.06 Bachelor of Engineering, College of Control Science and Engineering, Zhejiang University.
 - 2022.09 - Current Ph.D Student, College of Control Science and Engineering, Zhejiang University.
 
-## Selected Publications
+## Publications
+- KDD-LOAM: Jointly Learned Keypoint Detector and Descriptors Assisted LiDAR Odometry and Mapping. **Renlang Huang**, Minglei Zhao, Jiming Chen, Liang Li. *2024 IEEE International Conference on Robotics and Automation (ICRA)*. [paper](https://arxiv.org/abs/2309.15394) [release](https://github.com/RenlangHuang/KDD-LOAM)
+- Toward Scalable and Efficient Hierarchical Deep Reinforcement Learning for 5G RAN Slicing. **Renlang Huang**, Miao Guo, Chaojie Gu, Shibo He, Jiming Chen, Mingyang Sun. IEEE Transactions on Green Communications and Networking, 2023. [paper](10.1109/TGCN.2023.3295341)
+- Efficient Object Manipulation to an Arbitrary Goal Pose: Learning-based Anytime Prioritized Planning. Kechun Xu, Hongxiang Yu, **Renlang Huang**, Dashun Guo, Yue Wang, Rong Xiong. *2022 IEEE International Conference on Robotics and Automation (ICRA)*. [paper](10.1109/ICRA46639.2022.9811547)
