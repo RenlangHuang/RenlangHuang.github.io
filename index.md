@@ -6,8 +6,7 @@ My research interests focus on localization and mapping, visual and multi-modal 
 I plan to incorporate foundation models and generative tasks in my future research.
 
 ## Education
-2018.09 - 2022.06 Bachelor of Engineering, College of Control Science and Engineering, Zhejiang University.
-
-2022.09 - Current Ph.D Student, College of Control Science and Engineering, Zhejiang University.
+- 2018.09 - 2022.06 Bachelor of Engineering, College of Control Science and Engineering, Zhejiang University.
+- 2022.09 - Current Ph.D Student, College of Control Science and Engineering, Zhejiang University.
 
 ## Selected Publications
